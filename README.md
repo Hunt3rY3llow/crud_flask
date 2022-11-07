@@ -1,5 +1,5 @@
 # crud_flask
-prueba  tecnica de corporacion azul
+
 
 se debe correr el archivo App.py para poder visualizar la pagina y las funciones de la misma
 la opcion de eliminar si no es posible ejecutarla muestra en consola del servidor un mensaje de error y no elimina el producto
